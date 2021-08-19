@@ -67,6 +67,11 @@ nav a:focus {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: brown;
+}
+
+.banner a:focus {
+  outline: 3px solid #fff;
 }
 
 .banner img {
